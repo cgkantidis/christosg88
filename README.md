@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christosg88" alt="christosg88" /> </p>
 
-- 🔭 I’m currently working on a global and detailed placement tool, that also offers design visualization [place-eval](https://gitlab.com/christosg/place-eval)
+- 🔭 I’m currently working on a global and detailed placement tool, that also offers design visualization [place-eval](https://gitlab.com/christosg88/place-eval)
 
 - 📫 How to reach me **christosg8@gmail.com**
 
